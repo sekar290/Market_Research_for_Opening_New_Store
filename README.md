@@ -20,7 +20,7 @@ This limitation is used for better focus analysis :
 
 ### Some Business Question
 1. Which city in Polk  that have high liquor bottles sold ?
-2. How is the average  amount of  purchases are per store in a given city?
+2. How is daily bottle sold of liquor?
 3. How is location  affecting the sold  bottles in city?
 4. Where potential location to open  new store?
 
@@ -49,7 +49,50 @@ This limitation is used for better focus analysis :
   <summary>Data Analysis and Visualization</summary>
   
  #### Which city in Polk that have high liquor bottles sold ?
- ![GitHub Logo](/images/logo.png)
+ ![images](/Images/city.png)
+ **Des Moines** have high total bottles sold. This one due to high population around 215,636 (2019) and wide area 234.8 km² 
  
-</details>
+ #### How is daily bottle sold of liquor?
+ ![images](/Images/daily_sold.png)
+ - From the heatmap it shows that for all months in **Saturday and Sunday**, mostly there wasn't bottles sold
+ - In fact, **Thursday** have highest bottles sold for all over month especially in **March, May and August**
+ 
+ #### How is location  affecting the sold  bottles in city?
+ ![images](/Images/map.png)
+ - City around the capital city (Des Moines) seem have high bottle sold.
+ - Ankeny is City that has highest sold bottle of liquor around 7046
 
+ #### Where potential location to open  new store?
+ ![images](/Images/recomend_city.png)
+ **Ankeny** is City that located in near of capital and have high demand 
+ </details>
+ 
+<details> 
+    <summary>Conclusin and Recommendation</summary>
+    
+#### Gereral Conclusion
+1. **American Vodkas** have high bottles sold reach 2 million, followed by Whiskey Liqueur with bottle sold reach 1 million.
+2. **Single Malt Scotch** have expensive median price reach 44.99 usd.
+3. **Diageo Americas**  is vendor name that have high bottles sold reach more than 1.5 million
+4. **Fetzer Vineyards** is vendor name that have high median price reach 69.96 usd
+5. Store tend to buy **Large Volume** with total transactions reach 400.000
+6. The price of varian bottle volume linier with the volume. **The large the volume, the high the price**
+7. Total cost of liquor order is fluctuative for every month. The highest one is in **October**
+
+#### Potential Location to Open Store
+1. **Windsor Heights** is City with high median amount that store should pay. So, opening new store in this location would need fund more.
+2. **American Vodkas** is category name of liquor that popular and have high demand
+3. City that have high bottles sold is **Ankeny**. This city located near the capital of Iowa state.
+
+#### Recommendation for Alcoholic Beverages Divison
+1. **American Vodkas** is category name of liquor that have high demand, so there must always be a supply. The division could use vendor name Diageo Americas to supply it.  
+2. Since **Thursday** is day that have highest bottles sold for all over month especially in **March, May and August** so in this day and month, the division could stock more liquor to prevent from shortage of stock
+
+#### Recommendation for Opening New Store
+1. Since **Windsor Heights**  is city with high median  amount purchases for store, also the population itself lower than other city so opening new store in this city isn’t recommend
+2. Recommend City to opening New Store is **Ankeny**, here are the reason:
+    - Ankeny is city with highest sold bottle of liquor around 7046, 
+    - For the population itself, Ankeny have high population around 61,938 (2019)
+    - Ankeny located near the capital of Iowa State, so it have high demand
+   
+</details>
